@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=limsamh&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limsamh&layout=compact&title_color=63cda9&hide=html"/>
+  <img align="center" src="https://github-readme-stats-bay-tau-61.vercel.app/api?username=limsamh&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
+  <img align="center" src="https://github-readme-stats-bay-tau-61.vercel.app/api/top-langs/?username=limsamh&layout=compact&title_color=63cda9&hide=html"/>
 </p>
