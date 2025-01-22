@@ -24,4 +24,4 @@ I'm a passionate software engineer with a love for learning new technologies and
 ![Top Languages](https://github-readme-stats-bay-tau-61.vercel.app/api/top-langs/?username=limsamh&layout=compact&theme=radical)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mh-salim-igué)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://fr.linkedin.com/in/salim-mh-igu%C3%A9)
