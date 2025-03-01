@@ -5,6 +5,7 @@ I'm a passionate software engineer with a love for learning new technologies and
 
 - 💬 Ask me about **Java**, **Spring**, **Software architecture**, **JavaScript** and **Angular**.
 - ⚡ Fun fact: I love open source projects and playing games.
+- 🎯 I'm currently doing projects with an unfamiliar tech stack.
 
 ### Languages and Tools:
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
