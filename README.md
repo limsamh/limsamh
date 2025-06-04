@@ -1,5 +1,6 @@
 # Hi there, I'm Salim! 👋
 
+<!---
 ### About Me
 I'm a passionate software engineer with a love for learning new technologies and solving complex problems.
 
@@ -18,6 +19,7 @@ I'm a passionate software engineer with a love for learning new technologies and
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+-->
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-bay-tau-61.vercel.app/api?username=limsamh&show_icons=true&theme=radical)
 
